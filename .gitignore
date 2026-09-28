@@ -1,0 +1,85 @@
+# ==========================================
+# Git Ignore - Amazon ML Challenge 2026
+# ==========================================
+
+# Python & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.ipynb_checkpoints
+*.swp
+*.swo
+
+# Large Datasets and Archives (> 25MB - Exceeds GitHub Limit)
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+*.tsv
+*.csv
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.bin
+*.model
+*.weights
+*.h5
+*.pt
+*.pth
+
+# Dataset Directories
+student_resource/
+kaggle_dataset/
+claude_share/
+saahit_code/
+
+# Local Output & Intermediate Dumps
+output/
+output_*/
+kaggle_output/
+kaggle_output_*/
+kaggle_v*_output/
+completed_v*/
+log_v*/
+*err*/
+*_poll/
+*_run*/
+test_*_out/
+test_kaggle_push/
+test_kernel_init/
+tmp_meta/
+__MACOSX/
+
+# Logs & Environment Secrets
+*.log
+.env*
+*.token
+kaggle.json
+.kaggle*
+*.pem
+*.key
+
+# Preserve Documentation in docs/ and output/
+!docs/*.pdf
+!docs/*.md
+!output/MODEL_COMPARISON_REPORT.md

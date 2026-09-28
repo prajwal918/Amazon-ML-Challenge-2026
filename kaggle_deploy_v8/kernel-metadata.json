@@ -1,0 +1,15 @@
+{
+  "id": "node_beta/amazon-ml-challenge-v8-dp",
+  "title": "Amazon ML Challenge V8 DP Resolver",
+  "code_file": "Kaggle_Amazon_ML_Online.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "node_gamma/amazon-ml-v35-topk-attention",
+  "title": "Amazon ML V35 Asymmetric F05",
+  "code_file": "kaggle_v35.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "node_alpha/amazon-ml-challenge-2026"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

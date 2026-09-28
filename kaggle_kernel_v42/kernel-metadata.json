@@ -1,0 +1,15 @@
+{
+  "id": "node_delta/amazon-ml-v42-ngram-tfidf",
+  "title": "Amazon ML V42 Ngram TFIDF",
+  "code_file": "kaggle_v42.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "dataset_sources": [
+    "node_alpha/amazon-ml-challenge-2026"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "node_alpha/amazon-ml-v27-gpu-accelerated",
+  "title": "Amazon ML V27 GPU Accelerated",
+  "code_file": "kaggle_v27_gpu.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "dataset_sources": ["node_alpha/amazon-ml-challenge-2026"],
+  "competition_sources": [],
+  "kernel_sources": []
+}

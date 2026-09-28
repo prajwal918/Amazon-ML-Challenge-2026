@@ -1,0 +1,71 @@
+================================================================================
+GOOGLE COLAB MULTI-ACCOUNT OAUTH AUTHORIZATION LINKS (ACCOUNTS 1 to 10)
+Amazon ML Challenge 2026 - Distributed Compute Setup
+================================================================================
+
+INSTRUCTIONS:
+1. Open any account link below in your browser.
+2. Sign in with the respective Google account and click "Allow".
+3. Google will show an Authorization Code (e.g., 4/0AY0e...).
+4. Copy the code and paste it back to Antigravity (or run: python exchange_code.py --account <N> --code <CODE>).
+5. Once authorized, you can switch between accounts anytime via: colab-switch <N>
+
+--------------------------------------------------------------------------------
+ACCOUNT 1:
+--------------------------------------------------------------------------------
+https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=764086051850-6qr4p6gpi6hn506pt8ejuq83di341hur.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fsdk.cloud.google.com%2Fapplicationdefaultauthcode.html&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcolaboratory+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=7n_yvDfdXVQaMt6qwwF0BA&code_challenge=YpU8P3O_cB52OjfBmo7ejo_qYTLPQTPD3kN1Gw3079Q&code_challenge_method=S256&prompt=consent&token_usage=remote&access_type=offline
+
+
+--------------------------------------------------------------------------------
+ACCOUNT 2:
+--------------------------------------------------------------------------------
+https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=764086051850-6qr4p6gpi6hn506pt8ejuq83di341hur.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fsdk.cloud.google.com%2Fapplicationdefaultauthcode.html&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcolaboratory+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=_T7sciucSvrnLMEShKvxiA&code_challenge=cN41hcUPgV6OLm-e8v70HDLmkNXU9ORZbXMPpnGHPUc&code_challenge_method=S256&prompt=consent&token_usage=remote&access_type=offline
+
+
+--------------------------------------------------------------------------------
+ACCOUNT 3:
+--------------------------------------------------------------------------------
+https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=764086051850-6qr4p6gpi6hn506pt8ejuq83di341hur.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fsdk.cloud.google.com%2Fapplicationdefaultauthcode.html&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcolaboratory+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=mn2dJxe8l4MpPbk5b_yDuA&code_challenge=fr7vcB4iGAZ42na7gMh2Nu2QhluLyDXv3Aj7lqJ0m4s&code_challenge_method=S256&prompt=consent&token_usage=remote&access_type=offline
+
+
+--------------------------------------------------------------------------------
+ACCOUNT 4:
+--------------------------------------------------------------------------------
+https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=764086051850-6qr4p6gpi6hn506pt8ejuq83di341hur.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fsdk.cloud.google.com%2Fapplicationdefaultauthcode.html&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcolaboratory+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=uPmL0YTa3WoIGPnvraXrIg&code_challenge=nwdZLLpcENTDU2-8uUjSqXAxD7UN9e34oAT4vOIgYp0&code_challenge_method=S256&prompt=consent&token_usage=remote&access_type=offline
+
+
+--------------------------------------------------------------------------------
+ACCOUNT 5:
+--------------------------------------------------------------------------------
+https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=764086051850-6qr4p6gpi6hn506pt8ejuq83di341hur.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fsdk.cloud.google.com%2Fapplicationdefaultauthcode.html&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcolaboratory+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=fefbZGbYtVy14URgJbAWXA&code_challenge=hJesq5sJcdZC_-1MYGQklR5rE0ac8EtQ5U4brd-d4P4&code_challenge_method=S256&prompt=consent&token_usage=remote&access_type=offline
+
+
+--------------------------------------------------------------------------------
+ACCOUNT 6:
+--------------------------------------------------------------------------------
+https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=764086051850-6qr4p6gpi6hn506pt8ejuq83di341hur.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fsdk.cloud.google.com%2Fapplicationdefaultauthcode.html&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcolaboratory+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=QKkUnniOkcfVAmrRD00zSg&code_challenge=26CIZktGp87gei7TNQsCKtfWipsccRn-ZS8fZdLk3Qs&code_challenge_method=S256&prompt=consent&token_usage=remote&access_type=offline
+
+
+--------------------------------------------------------------------------------
+ACCOUNT 7:
+--------------------------------------------------------------------------------
+https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=764086051850-6qr4p6gpi6hn506pt8ejuq83di341hur.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fsdk.cloud.google.com%2Fapplicationdefaultauthcode.html&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcolaboratory+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=xWGsgAw0DP3JqYS_40qunQ&code_challenge=1R4kJLnEcpSUtwv4VX2R6E6me0r7iNz4whRFVoJkgMU&code_challenge_method=S256&prompt=consent&token_usage=remote&access_type=offline
+
+
+--------------------------------------------------------------------------------
+ACCOUNT 8:
+--------------------------------------------------------------------------------
+https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=764086051850-6qr4p6gpi6hn506pt8ejuq83di341hur.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fsdk.cloud.google.com%2Fapplicationdefaultauthcode.html&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcolaboratory+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=vqwE1g87k4E5FgQL9pkW3A&code_challenge=IMLzgN3oBqpAcdPeycZKEIO43wnHgUphu_kWc8xYNqg&code_challenge_method=S256&prompt=consent&token_usage=remote&access_type=offline
+
+
+--------------------------------------------------------------------------------
+ACCOUNT 9:
+--------------------------------------------------------------------------------
+https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=764086051850-6qr4p6gpi6hn506pt8ejuq83di341hur.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fsdk.cloud.google.com%2Fapplicationdefaultauthcode.html&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcolaboratory+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=D1s-9GxbDmGaN3nr281ltw&code_challenge=Ysclmz64eHO2wIyUjBzrLfUfi_CnxBhw_KdFIsuPrtM&code_challenge_method=S256&prompt=consent&token_usage=remote&access_type=offline
+
+
+--------------------------------------------------------------------------------
+ACCOUNT 10:
+--------------------------------------------------------------------------------
+https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=764086051850-6qr4p6gpi6hn506pt8ejuq83di341hur.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fsdk.cloud.google.com%2Fapplicationdefaultauthcode.html&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcolaboratory+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=dHw_Psjybc8S6WdKVmLaQw&code_challenge=QnkOSKZTwrUklx_SY1l_HOzzsrstXGT8N7MFFbS9pMo&code_challenge_method=S256&prompt=consent&token_usage=remote&access_type=offline
+================================================================================

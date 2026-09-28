@@ -1,0 +1,15 @@
+{
+  "id": "node_beta/amazon-ml-v31-focal-loss",
+  "title": "Amazon ML V31 Focal Loss",
+  "code_file": "kaggle_v31.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "node_alpha/amazon-ml-challenge-2026"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "node_delta/amazon-ml-v44-catboost-focal",
+  "title": "Amazon ML V44 Catboost Focal",
+  "code_file": "kaggle_v44.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "dataset_sources": [
+    "node_alpha/amazon-ml-challenge-2026"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

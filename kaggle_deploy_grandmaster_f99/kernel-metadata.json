@@ -1,0 +1,15 @@
+{
+  "id": "node_alpha/amazon-ml-grandmaster-f99",
+  "title": "Amazon ML Grandmaster F99",
+  "code_file": "kaggle_grandmaster_f99.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

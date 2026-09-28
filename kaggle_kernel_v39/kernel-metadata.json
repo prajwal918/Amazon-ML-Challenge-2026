@@ -1,0 +1,15 @@
+{
+  "id": "node_gamma/amazon-ml-v39-super-ensemble",
+  "title": "Amazon ML V39 Super Ensemble",
+  "code_file": "kaggle_v39.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "node_alpha/amazon-ml-challenge-2026"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

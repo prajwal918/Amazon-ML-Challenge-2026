@@ -1,0 +1,15 @@
+{
+  "id": "node_delta/amazon-ml-v45-bayesian-f05",
+  "title": "Amazon ML V45 Bayesian F05",
+  "code_file": "kaggle_v45.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "dataset_sources": [
+    "node_alpha/amazon-ml-challenge-2026"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

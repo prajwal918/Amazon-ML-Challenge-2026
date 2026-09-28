@@ -1,0 +1,15 @@
+{
+  "id": "node_delta/amazon-ml-v43-geo-hierarchy",
+  "title": "Amazon ML V43 Geo Hierarchy",
+  "code_file": "kaggle_v43.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "dataset_sources": [
+    "node_alpha/amazon-ml-challenge-2026"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

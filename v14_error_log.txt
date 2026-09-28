@@ -1,0 +1,67 @@
+[{"stream_name":"stderr","time":9.320928506,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":9.321004831,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":9.321012808,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":9.321018067,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":10.160430398,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":10.160465148,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":10.160471393,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":10.160476277,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":16.158911706,"data":"\u001b[?25l   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m0.0/345.1 kB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[90m╺\u001b[0m \u001b[32m337.9/345.1 kB\u001b[0m \u001b[31m28.3 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m345.1/345.1 kB\u001b[0m \u001b[31m7.5 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":16.261046196,"data":"\u001b[?25h\u001b[?25l   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m0.0/3.2 MB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[91m╸\u001b[0m \u001b[32m3.2/3.2 MB\u001b[0m \u001b[31m109.7 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m3.2/3.2 MB\u001b[0m \u001b[31m46.9 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":19.574435134,"data":"\u001b[?25hDownloading Student Resource from Unstop CDN...\n"}
+,{"stream_name":"stdout","time":23.396101565,"data":"Extracting test files...\n"}
+,{"stream_name":"stdout","time":49.912493195,"data":"Dataset ready!\n"}
+,{"stream_name":"stdout","time":50.159581692,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":50.159619406,"data":"Amazon ML Challenge 2026 - Pipeline V14 (Grandmaster Precision Strike)\n"}
+,{"stream_name":"stdout","time":50.159626543,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":50.159634156,"data":"Indexing test_source2.tsv...\n"}
+,{"stream_name":"stdout","time":144.450453505,"data":"  1,000,000 records (10613/s)\n"}
+,{"stream_name":"stdout","time":235.721069559,"data":"  2,000,000 records (10782/s)\n"}
+,{"stream_name":"stdout","time":331.082347975,"data":"  3,000,000 records (10682/s)\n"}
+,{"stream_name":"stdout","time":424.101184032,"data":"  4,000,000 records (10700/s)\n"}
+,{"stream_name":"stdout","time":509.198743994,"data":"  Done test_source2.tsv: 4,887,273 in 459.0s\n"}
+,{"stream_name":"stdout","time":509.198835944,"data":"Indexing test_source3.tsv...\n"}
+,{"stream_name":"stdout","time":604.692281265,"data":"  1,000,000 records (10473/s)\n"}
+,{"stream_name":"stdout","time":690.62597041,"data":"  2,000,000 records (11024/s)\n"}
+,{"stream_name":"stdout","time":789.959646995,"data":"  3,000,000 records (10686/s)\n"}
+,{"stream_name":"stdout","time":875.950530763,"data":"  4,000,000 records (10907/s)\n"}
+,{"stream_name":"stdout","time":979.093738351,"data":"  5,000,000 records (10641/s)\n"}
+,{"stream_name":"stdout","time":985.966560461,"data":"  Done test_source3.tsv: 5,082,316 in 477.0s\n"}
+,{"stream_name":"stdout","time":985.966602493,"data":"\n"}
+,{"stream_name":"stdout","time":985.966609391,"data":"Indexed total target records: 9,969,589\n"}
+,{"stream_name":"stderr","time":989.306071769,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":989.306100898,"data":"  File \"\u003cstring\u003e\", line 1, in \u003cmodule\u003e\n"}
+,{"stream_name":"stderr","time":989.30610847,"data":"  File \"/usr/local/lib/python3.12/dist-packages/papermill/execute.py\", line 131, in execute_notebook\n"}
+,{"stream_name":"stderr","time":989.306422251,"data":"    raise_for_execution_errors(nb, output_path)\n"}
+,{"stream_name":"stderr","time":989.306452057,"data":"  File \"/usr/local/lib/python3.12/dist-packages/papermill/execute.py\", line 251, in raise_for_execution_errors\n"}
+,{"stream_name":"stderr","time":989.306460063,"data":"    raise error\n"}
+,{"stream_name":"stderr","time":989.306728163,"data":"papermill.exceptions.PapermillExecutionError: \n"}
+,{"stream_name":"stderr","time":989.306752078,"data":"---------------------------------------------------------------------------\n"}
+,{"stream_name":"stderr","time":989.306785483,"data":"Exception encountered at \"In [3]\":\n"}
+,{"stream_name":"stderr","time":989.306792653,"data":"---------------------------------------------------------------------------\n"}
+,{"stream_name":"stderr","time":989.306798849,"data":"NameError                                 Traceback (most recent call last)\n"}
+,{"stream_name":"stderr","time":989.306804783,"data":"/tmp/ipykernel_16/808420404.py in \u003ccell line: 0\u003e()\n"}
+,{"stream_name":"stderr","time":989.306811014,"data":"    456     OUT = BASE / \"output\"\n"}
+,{"stream_name":"stderr","time":989.306817061,"data":"    457     if TEST.exists():\n"}
+,{"stream_name":"stderr","time":989.306822801,"data":"--\u003e 458         run_grandmaster_v14(TEST, OUT)\n"}
+,{"stream_name":"stderr","time":989.306828729,"data":"    459     else:\n"}
+,{"stream_name":"stderr","time":989.306834297,"data":"    460         print(\"Test directory missing\")\n"}
+,{"stream_name":"stderr","time":989.306840255,"data":"\n"}
+,{"stream_name":"stderr","time":989.306845782,"data":"/tmp/ipykernel_16/808420404.py in run_grandmaster_v14(test_dir, output_dir)\n"}
+,{"stream_name":"stderr","time":989.306851544,"data":"    354                     is_num_typo = False\n"}
+,{"stream_name":"stderr","time":989.306857045,"data":"    355                     if core_nsim \u003e= 65 and street_sim \u003e= 75:\n"}
+,{"stream_name":"stderr","time":989.306862983,"data":"--\u003e 356                         for qn in qnums:\n"}
+,{"stream_name":"stderr","time":989.306868531,"data":"    357                             for tn in t_num:\n"}
+,{"stream_name":"stderr","time":989.306874825,"data":"    358                                 if len(qn) \u003e= 2 and len(tn) \u003e= 2:\n"}
+,{"stream_name":"stderr","time":989.306880868,"data":"\n"}
+,{"stream_name":"stderr","time":989.306886041,"data":"NameError: name 'qnums' is not defined\n"}
+,{"stream_name":"stderr","time":989.306910176,"data":"\n"}
+,{"stream_name":"stderr","time":992.74914849,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":992.749234046,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":993.004176679,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":993.004216728,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":993.830582129,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":994.320610226,"data":"[NbConvertApp] Writing 32178 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":998.206462113,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":999.623242128,"data":"[NbConvertApp] Writing 379654 bytes to __results__.html\n"}
+]

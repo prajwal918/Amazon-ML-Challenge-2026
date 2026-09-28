@@ -1,0 +1,13 @@
+{
+  "id": "node_alpha/amazon-ml-v24-gpu-tri-ensemble",
+  "title": "Amazon ML V24 GPU Tri Ensemble",
+  "code_file": "kaggle_notebook_v24_gpu.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": ["node_alpha/amazon-ml-challenge-2026"],
+  "competition_sources": [],
+  "kernel_sources": []
+}

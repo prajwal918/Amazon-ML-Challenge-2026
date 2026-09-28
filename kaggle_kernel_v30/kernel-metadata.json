@@ -1,0 +1,15 @@
+{
+  "id": "node_beta/amazon-ml-v30-sparse-regularized",
+  "title": "Amazon ML V30 Sparse Regularized",
+  "code_file": "kaggle_v30.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "dataset_sources": [
+    "node_alpha/amazon-ml-challenge-2026"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
